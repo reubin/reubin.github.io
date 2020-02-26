@@ -4,7 +4,7 @@ author: 咕咚
 title: "还有四天就2020了… | Daily 12/27"
 author: gudong
 tags:  think
-categories: daily
+categories: daily-1
 header-img: "https://imgkr.cn-bj.ufileos.com/cadca3d3-9fd5-41a9-bfaa-d3bb88ce95bf.jpg"
 header-desc: "早晨 2019/12/27"
 description: 该写年终总结了

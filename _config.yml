@@ -19,9 +19,9 @@ reubingzh: 叮咚同学
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: /2020/02/02/resume.html
+resume-url: https://reubin.github.io/2020/02/02/resume.html
 
-url: https:// 
+url: https://reubin.github.io/
 # your url: http://USERNAME.github.io
 
 # permalink: /:title/
@@ -34,7 +34,7 @@ analytics-baidu: ' '
 
 
 # To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: ' '
+analytics-piwik-url: 'https://reubin.github.io/ '
 analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
@@ -138,7 +138,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url:  
+    base_url:https://reubin.github.io/  
 
 markdown: kramdown
 kramdown:

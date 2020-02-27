@@ -1,19 +1,19 @@
 # main text of home
-name: 叮咚叮咚
-bio: 人惟求旧，物惟求新。
+name: 奋斗者
+bio: 白日江山阔，风云动古今，人生难自负，求索见丹心。
 bio-url: 
 
 # twitter summary info
-description: A blog about reubin.site 叮咚叮咚
+description: A blog about reubin.site 奋斗者
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/profile/github_profile.png
 profile_bk: assets/profile/profile_bk_2017.jpg
-author: 叮咚叮咚
+author: 奋斗者
 reubinqr:  
-reubingzh: 叮咚叮咚
+reubingzh: 奋斗者
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -50,8 +50,8 @@ enable_valine: true
 valine:
   shortname: reubin-name # enter this from your disqus account
   categories: [blog, note, product,tech,daily] # only show disqus for posts that have these categories  
-  appId: ' '
-  appKey: ' '
+  appId: 'L1OMKOsJimNrOB3paGxnGWW4-gzGzoHsz'
+  appKey: 'ft4SUvumbWljyBw7T4GT8fR7'
   visitors: true
 
 # if you don't have any of social below, comment the line
@@ -82,8 +82,8 @@ rss: true
 
 authors:
     gudong:
-        name: 叮咚叮咚
-        bio: 人惟求旧，物惟求新。
+        name: 奋斗者
+        bio: 千淘万漉虽辛苦，吹尽狂沙始到金。
         about: /about
         external-image: false
         picture: assets/profile/github_profile.png

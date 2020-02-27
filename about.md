@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.profile_bk }})
 <figcaption class="caption">{{site.bio}}</figcaption>
 
-<b>喜欢什么</b><br>
+<b>喜欢：</b><br>
 <ul>
     <li>音乐。</li>
     <li>篮球。</li>
@@ -13,14 +13,14 @@ layout: page
     <li>喝茶。</li>
 </ul>
 
-<b>性格</b><br>
+<b>性格：</b><br>
 <ul>
     <li>为人和善。</li>
     <li>乐于助人。</li>
     <li>乐于分享。</li>
 </ul>
 
-<b>简单的背景</b><br>
+<b>背景：</b><br>
 <ul>
     <li>73年出生于安徽省歙县。</li>
     <li>93年毕业于徽州师专（今黄山学院）。</li>

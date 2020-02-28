@@ -11,7 +11,7 @@ SegmentFault (Markdown 编辑器语法指南):    <https://segmentfault.com/mark
 Markdown Nice:     <https://mdnice.com/>
 
 
-##搞学习
+## 搞学习
 CSDN： https://www.csdn.net/
 
 TED（最优质的演讲）：<https://www.ted.com/>
@@ -66,7 +66,7 @@ iData（论文搜索）：www.cn-ki.net
 
 必看网（人生必看的书籍）：https://www.biikan.com/
 
-##冷知识 / 黑科技
+## 冷知识 / 黑科技
 上班摸鱼必备（假装电脑系统升级）： http://fakeupdate.net/
 
 福利单词（一个不太正经的背单词网站）： http://dict.ftqq.com
@@ -85,7 +85,7 @@ iData：https://www.cn-ki.net/
 
 caj云阅读：http://cajviewer.cnki.net/cajcloud/
 
-##写代码
+## 写代码
 GitHub：https://github.com/
 
 码云：https://gitee.com/
@@ -98,7 +98,7 @@ Json在线解析验证： https://www.json.cn/
 
 在线接口测试（Getman）：https://getman.cn/
 
-##资源搜索
+## 资源搜索
 DogeDoge搜索引擎：www.dogedoge.com
 
 秘迹搜索：https://mijisou.com/
@@ -113,7 +113,7 @@ DogeDoge搜索引擎：www.dogedoge.com
 
 爱扒：https://www.zyboe.com/
 
-##小工具
+## 小工具
 奶牛快传（在线传输文件利器）： cowtransfer.com
 
 文叔叔（大文件传输，不限速）：https://www.wenshushu.cn/
@@ -144,7 +144,7 @@ DogeDoge搜索引擎：www.dogedoge.com
 
 MSDN我告诉你（windows10系统镜像下载）：https://msdn.itellyou.cn/
 
-##导航页（工具集）
+## 导航页（工具集）
 世界各国网址大全： http://www.world68.com/
 
 小森林导航：http://www.xsldh6.com/
@@ -178,7 +178,7 @@ KIM主页：https://kim.plopco.com/
 工具导航：https://hao.logosc.cn/
 
 
-##看视频
+## 看视频
 阿木影视： https://www.aosk.online/
 
 电影推荐（分类别致）：http://www.mvcat.com
@@ -209,7 +209,7 @@ VideoFk解析视频：http://www.videofk.com/
 
 永久资源采集网：http://www.yongjiuzy1.com/
 
-##学设计
+## 学设计
 码力全开（产品/设计师/独立开发者的资源库）： https://www.maliquankai.com/designnav/
 
 免费音频素材：https://icons8.cn/music
@@ -217,7 +217,6 @@ VideoFk解析视频：http://www.videofk.com/
 新CG儿（视频素材模板，无水印+免费下载）：https://www.newcger.com/
 
 Iconfont（阿里巴巴矢量图标库）： https://www.iconfont.cn/
-
 
 小图标下载：https://www.easyicon.net/
 
@@ -241,7 +240,7 @@ MAKE海报设计官网：http://maka.im/
 
 在线视频剪辑：https://bilibili.clipchamp.com/editor
 
-##搞文档
+## 搞文档
 即书（在线制作PPT）：https://www.keysuper.com/
 
 PDF处理：https://smallpdf.com/cn
@@ -280,7 +279,7 @@ UZER.ME（在线使用各种大应用，在线使用CAD，MATLAB，Office三件�
 
 Excel函数表： https://support.office.com/zh-cn/article/excel-%E5%87%BD%E6%95%B0%EF%BC%88%E6%8C%89%E5%AD%97%E6%AF%8D%E9%A1%BA%E5%BA%8F%EF%BC%89-b3944572-255d-4efb-bb96-c6d90033e188
 
-##找图片
+## 找图片
 电脑壁纸：http://lcoc.top/bizhi/
 
 https://unsplash.com/

@@ -6,6 +6,10 @@ description: 超实用网站
 categories: blog 
 tags: favorites 
 ---
+## 学代码
+SegmentFault (Markdown 编辑器语法指南):  https://segmentfault.com/markdown
+Markdown Nice:  https://mdnice.com/
+
 
 ## 搞学习
 CSDN： https://www.csdn.net/
